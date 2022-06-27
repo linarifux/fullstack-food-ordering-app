@@ -1,0 +1,11 @@
+.hot-product{
+    background-image: url('../images/hotfood.png');
+    width: '100%';
+    height: '400px'
+}
+
+.hero-product{
+    width: 50%;
+    height: 100%;
+
+}
